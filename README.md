@@ -5,8 +5,9 @@ Joe Kent is a Data Analytics student at Mission Ready HQ, with a strong backgrou
 ### Data Analytics
 #### Mission Ready Projects
 As part of my studies at Mission Ready I have worked with numerous data analytics technologies, here are two in particular:
-- https://github.com/Jedijoe100/Mission-Ready-Mission-3 - an assignment written in python utilising python, pandas and matplotlib to process and analyse data 
-
+- https://github.com/Jedijoe100/Mission-Ready-Mission-3 - an assignment written in python utilising python, pandas and matplotlib to process and analyse data
+- https://github.com/taheith-source/mission_ready_work/blob/main/Mission%204_%20Predicting%20House%20Price%20with%20Multiple%20Linear%20Regression.ipynb - a group assignment written in python to predict house prices
+- https://github.com/taheith-source/mission_ready_work/blob/main/Mission%205.ipynb - a group assignment written in python using predictive techniques to predict if loan is accepted or not.
 ### Mathematical/Simulation
 As well as the above data analytics projects here are a few projects from my experience studying mathematics which shows other skills that I have which would aid in data analytics
 #### Masters Thesis
