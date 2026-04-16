@@ -3,6 +3,12 @@ Joe Kent is a Data Analytics student at Mission Ready HQ, with a strong backgrou
 
 ## Projects
 ### Data Analytics
+#### Terrain Upscaler
+This is a project where I am expanding my skills in while working on a project that interests me. 
+This project is to use a neural network trained of real world data to increase the resolution.
+The skills that I am working with are: REST API calls, GIS, Data Processing, Machine Learning and Data Visualisation. 
+The source can be found at the following link https://github.com/Jedijoe100/Terrain-Upscaler.
+
 #### Mission Ready Projects
 As part of my studies at Mission Ready I have worked with numerous data analytics technologies, here are two in particular:
 - https://github.com/Jedijoe100/Mission-Ready-Mission-3 - an assignment written in python utilising python, pandas and matplotlib to process and analyse data
